@@ -762,14 +762,12 @@ color:  #4D5AE5;
 }
 
 .check-text span {
-    position: relative;
     display: inline-flex;
     width: 16px;
     height: 16px;
     border-radius: 2px;
-        border: 1px solid rgba(46, 47, 66, 0.40);
+    border: 1px solid rgba(46, 47, 66, 0.40);
     margin-right: 8px;
-    display: flex;
     align-items: center;
     justify-content: center;
     fill: transparent;
