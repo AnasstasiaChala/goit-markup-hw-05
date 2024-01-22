@@ -762,10 +762,9 @@ color:  #4D5AE5;
     text-decoration-line: underline;
 }
 
-.icon-span {
-        display: inline-flex;
-}
 .check-text span {
+    position: relative;
+    display: inline-flex;
     width: 16px;
     height: 16px;
     border-radius: 2px;
