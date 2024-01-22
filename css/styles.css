@@ -750,7 +750,6 @@ border-color:#4D5AE5;
         font-style: normal;
         line-height: 1.17;
         letter-spacing: 0.04em;
-        display: flex;
 }
 
 .check-text a {
@@ -763,7 +762,6 @@ color:  #4D5AE5;
 }
 
 .check-text span {
-    position: relative;
     display: inline-flex;
     width: 16px;
     height: 16px;
