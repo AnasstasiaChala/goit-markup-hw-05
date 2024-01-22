@@ -762,6 +762,7 @@ color:  #4D5AE5;
 }
 
 .check-text span {
+    position: relative;
     display: inline-flex;
     width: 16px;
     height: 16px;
